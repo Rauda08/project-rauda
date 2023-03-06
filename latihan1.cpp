@@ -3,19 +3,19 @@ using namespace std;
 
 int main (){
     //Begin
-    // Numeric Luas,p,l
+    //Numeric Luas,p,l
     double Luas, p, l;
-    // display 'Masukan Panjang = '
+    //display 'Masukan Panjangnya = '
     cout << "Masukan Panjangnya = ";
-    // Accept p
+    //Accept p
     cin >> p;
-    // display 'Masukan Lebarnya = '
-    cout << "Masukkan Lebarnya = ";
-    // Accept 1
+    //display 'Masukan Lebarnya = '
+    cout << "Masukan Lebarnya = ";
+    //Accept l
     cin >> 1;
     // Compute Luas = p*l
     Luas = p*l;
-    // display "Luasnya = "+Luas
-    cout << 'Luasnya = " << Luas;
+    //display "Luasnya = "+Luas
+    cout << "Luasnya = " << Luas;
     //End
 }
